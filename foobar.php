@@ -19,7 +19,6 @@
 		}
 	}
 	
-	
 	// Eliminate the ", " in the end of the output.
 	$output = substr($output, 0, -2);
 	
